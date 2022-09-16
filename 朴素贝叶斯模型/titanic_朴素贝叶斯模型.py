@@ -91,6 +91,7 @@ disp = metrics.plot_confusion_matrix(gnb,X_test,y_test,cmap='Reds')
 # metrics.ConfusionMatrixDisplay.from_predictions(X_test,y_test)
 disp.figure_.suptitle('Confusion Matrix')
 plt.show()
+# ......
 
 
 
