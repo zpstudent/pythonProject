@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @File:demo.py
+# @File:前后概率矩阵示例.py
 # @Author:south wind
 # @Date:2022-09-08
 # @IDE:PyCharm
