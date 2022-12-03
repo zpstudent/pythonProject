@@ -10,8 +10,10 @@ x_train,y_train=0,0
 model=models.Sequential([
     layers.Conv2D(filters=6,kernel_size=(5,5),activation='sigmoid'),
     layers.MaxPooling2D(pool_size=(2,2),strides=2),
+
     layers.Conv2D(filters=16,kernel_size=(5,5),activation='sigmoid'),
     layers.MaxPooling2D(pool_size=(2,2),strides=2),
+
     layers.Flatten(),
     layers.Dense(120,activation='sigmoid'),
     layers.Dense(84,activation='sigmoid'),

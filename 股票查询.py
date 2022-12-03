@@ -10,10 +10,3 @@ for i in range(n):
     print(f'---------------------------{stock_code[i]}---------------------------')
     print(data.head(5))
     print('\n')
-
-
-
-
-
-
-
