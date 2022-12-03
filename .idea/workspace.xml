@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d8eb8fc-6784-4d1e-a49f-92e4062e823b" name="Changes" comment="111">
-      <change afterPath="$PROJECT_DIR$/六种经典神经网络/InceptionNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/六种经典神经网络/ResNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/六种经典神经网络/VGGNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EM算法示例.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hidden Markov model(HMM)/viterbi algorithm(P213-3).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hidden Markov model(HMM)/前向后向概率计算示例(P213-2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hidden Markov model(HMM)/后向算法示例(P213-1).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/六种经典神经网络/AlexNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/六种经典神经网络/AlexNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/六种经典神经网络/LeNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/六种经典神经网络/LeNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前后概率矩阵示例.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/朴素贝叶斯模型/titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/朴素贝叶斯模型/titanic_朴素贝叶斯模型.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性回归/一元线性回归模型.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/股票查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/股票查询.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/的膜.py" beforeDir="false" afterPath="$PROJECT_DIR$/的膜.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +77,7 @@
       <recent name="$PROJECT_DIR$/朴素贝叶斯模型" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.VGGNet">
+  <component name="RunManager" selected="Python.股票查询">
     <configuration name="股票查询" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +141,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="的膜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/的膜.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,28 +174,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +254,6 @@
         <item itemvalue="Python.fashion" />
         <item itemvalue="Python.p8_iris_sequential" />
         <item itemvalue="Python.neural ode_spiral" />
-        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -329,6 +309,8 @@
       <workItem from="1669787483830" duration="8072000" />
       <workItem from="1669863643418" duration="13526000" />
       <workItem from="1670039142864" duration="8947000" />
+      <workItem from="1670057567329" duration="658000" />
+      <workItem from="1670065072750" duration="593000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1663303960720</created>
@@ -351,7 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670041288031</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="111">
+      <created>1670057597417</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670057597417</updated>
+    </task>
+    <task id="LOCAL-00005" summary="111">
+      <created>1670057626954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670057626955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,13 +370,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/的膜.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
